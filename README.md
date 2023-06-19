@@ -13,3 +13,4 @@
 - Concatenadores de string: +
 
 ```
+* Váriavel T-SQL:
