@@ -1,2 +1,2 @@
-# aula-de-sql-server-t-sql
-esse repositório é destinado as aulas de sql server 
+# Repositório de código e comandos T-SQL
+* Códigos básicos:
